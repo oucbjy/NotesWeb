@@ -1,0 +1,33 @@
+2012-12-09 学习笔记
+1用github进行代码的迁入迁出2.用html编写一个
+ruby视频映像。rubychina.org
+从github里面共享资料rubys-happyacapes-offline有一个女程序员facebook first 
+地址：xdite.net  zheng yi ting开发过程中的实践  yafei2003
+3.多个版本的合并通过git -rebase
+新建一个html
+makedir offline  cd ls命令
+intnet app and web app? intnet  是计算机和计算机的链接，web实际上是和html之间的链接
+client side: html page as UI
+server side: ruby/java
+###interpeter
+Html broswer
+java  jvm
+python pvm
+ruby MRI ruby
+
+
+alt f2 gnome te
+cd:访问路径 cd ..  返回
+ls查看文件下面的内容
+用firefox打开文件的内容 firefox path
+css控制样式
+meta link title的具体作用？？
+html + css + js
+structure + styling + Behavior(everthing)
+ homework
+1how to set a web server
+ Apache setup
+offline.happycasts.net
+server side : ruby（实现算法） + 数据库（mysql happycasts.net mysql video）
+利用git查看历史的修改内容
+班长邮箱：lifulei az00000000@126.com
